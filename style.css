@@ -68,6 +68,7 @@ ol {
 
 a{
   text-decoration: underline;
+  color: yellow;
 }
 
 a:visited {
@@ -76,8 +77,4 @@ a:visited {
 
 a:hover {
   color: orange
-}
-
-a{
-  color: yellow;
 }
