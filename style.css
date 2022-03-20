@@ -1,0 +1,79 @@
+header {
+  background-color: black;
+}
+
+header h1{
+  margin: 0;
+  padding-top: 40px;
+  color: white;
+  font-family: 'Abril Fatface';
+  font-size:60px;
+  text-align: center;
+}
+
+header h2{
+  color:white;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+background-color: black;
+}
+
+.footercenter {
+ margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Abril Fatface';
+  font-size:20px;
+  text-align: center
+}
+
+ main h1{
+  text-align:center;
+   color: #303030;
+}
+
+main p {
+text-align: center;
+  
+}
+
+footer h3{
+  padding-top: 40px;
+  color: white;
+  font-family: 'Abril Fatface';
+  font-size: 20px;
+}
+
+.centercontent {
+  text-align: center;
+  height: 470px
+}
+ul {
+    display: table; 
+    margin: auto;
+    text-align: left;
+}
+
+ol {
+    display: table; 
+    margin: auto;
+    text-align: left;
+}
+
+/* pseudo-classes code below*/
+
+a{
+  text-decoration: underline;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: purple
+}
